@@ -57,7 +57,7 @@ class ResizeablePage extends StatelessWidget {
                 ),
                 _fillTableRow(
                   context: context,
-                  property: 'Divece Pixel Ratio',
+                  property: 'Divece Pixel Ratio.',
                   value: mediaQuery.devicePixelRatio.toStringAsFixed(2),
                 ),
                 _fillTableRow(
